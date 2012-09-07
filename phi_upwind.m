@@ -1,0 +1,3 @@
+function phi = phi_upwind(theta)
+% only passing theta as an argument for a consistent interface...
+phi = 0;
